@@ -1,2 +1,1 @@
-
-https://serverbackupchannel.xyz/jiotvchannel/app/live/{XXX}/nsykat.com/index.m3u8
+https://jiolive.tv/player/jiotv/app/live/{XXX}/nsykat.com/index.m3u8
