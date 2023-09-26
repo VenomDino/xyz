@@ -181,7 +181,7 @@
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "\/jfF082zSP+QFd1ytms\/XQ",
+                    "k": "jfF082zSP+QFd1ytmsXQ",
                     "kid": "HL4pP9w4XayMDVArBPM45A"
                 }
             ],
