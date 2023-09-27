@@ -10,8 +10,8 @@
             "keys": [
                 {
                     "kty": "oct",
-                    "k": "bw3WHU6nHpEvgTpJUgUkLA",
-                    "kid": "VxCNa67hDJLwjS8c9lBfwA"
+                    "k": "VxCNa67hDJLwjS8c9lBfwA",
+                    "kid": "UuSQhPTnU0O5CD2wE8DUBA"
                 }
             ],
             "type": "temporary"
