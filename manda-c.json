@@ -2,8 +2,27 @@
     {
         "tvg-id": "842",
         "license-type": "clearkey",
+        "tvg-logo": "https:\/\/mediaready.videoready.tv\/tatasky-epg\/image\/fetch\/f_auto,fl_lossy,q_auto,h_250,w_250\/https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/STJHD_Thumbnail-v3\/STJHD_Thumbnail.png",
+        "group-title": "Regional Bengali",
+        "channel-name": "Star Jalsha HD",
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "bw3WHU6nHpEvgTpJUgUkLA",
+                    "kid": "VxCNa67hDJLwjS8c9lBfwA"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https:\/\/bpprod6linear.akamaized.net\/bpk-tv\/irdeto_com_Channel_736\/output\/manifest.mpd"
+    },
+    {
+        "tvg-id": "842",
+        "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56389-kfdgngts-v3\/imageContent-56389-kfdgngts-m3.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Somnath Temple",
         "license-key": "",
         "license-key-local": {
@@ -22,7 +41,7 @@
         "tvg-id": "840",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56386-kfc14w60-v4\/imageContent-56386-kfc14w60-m4.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Shirdi Sai Baba",
         "license-key": "",
         "license-key-local": {
@@ -41,7 +60,7 @@
         "tvg-id": "641",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23495-jf92iycg-v3\/imageContent-23495-jf92iycg-m4.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Tata Play Cooking",
         "license-key": "",
         "license-key-local": {
@@ -60,7 +79,7 @@
         "tvg-id": "121",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-405-j5jr3sz4-v2\/imageContent-405-j5jr3sz4-m2.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Tata Play Fitness",
         "license-key": "",
         "license-key-local": {
@@ -79,7 +98,7 @@
         "tvg-id": "618",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12282-ja02jlp4-v2\/imageContent-12282-ja02jlp4-m2.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Tata Play Beauty",
         "license-key": "",
         "license-key-local": {
@@ -98,7 +117,7 @@
         "tvg-id": "959",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67692-kwmxxw08-v2\/imageContent-67692-kwmxxw08-m3.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Tata Play Romance",
         "license-key": "",
         "license-key-local": {
@@ -117,7 +136,7 @@
         "tvg-id": "191",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-795-j5m7axrc-v1\/imageContent-795-j5m7axrc-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "DD National",
         "license-key": "",
         "license-key-local": {
@@ -136,7 +155,7 @@
         "tvg-id": "244",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-6895-j6vqhqnc-v2\/imageContent-6895-j6vqhqnc-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Star Bharat HD",
         "license-key": "",
         "license-key-local": {
@@ -155,7 +174,7 @@
         "tvg-id": "15",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43-j5fca4k0-v3\/imageContent-43-j5fca4k0-m4.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "SET HD",
         "license-key": "",
         "license-key-local": {
@@ -174,7 +193,7 @@
         "tvg-id": "8",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25307-jhrhflww-v1\/imageContent-25307-jhrhflww-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "STAR Plus HD",
         "license-key": "",
         "license-key-local": {
@@ -193,7 +212,7 @@
         "tvg-id": "556",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12074-j9oat6qw-v6\/imageContent-12074-j9oat6qw-m6.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "SET",
         "license-key": "",
         "license-key-local": {
@@ -212,7 +231,7 @@
         "tvg-id": "559",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12081-j9oc38xc-v8\/imageContent-12081-j9oc38xc-m7.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "SONY SAB",
         "license-key": "",
         "license-key-local": {
@@ -231,7 +250,7 @@
         "tvg-id": "40",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-117-j5fl7440-v1\/imageContent-117-j5fl7440-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "&tv HD",
         "license-key": "",
         "license-key-local": {
@@ -250,7 +269,7 @@
         "tvg-id": "48",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-141-j5fpeji0-v3\/imageContent-141-j5fpeji0-m3.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "SONY SAB HD",
         "license-key": "",
         "license-key-local": {
@@ -269,7 +288,7 @@
         "tvg-id": "63",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11073-j95e7nyo-v1\/imageContent-11073-j95e7nyo-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Zee TV HD",
         "license-key": "",
         "license-key-local": {
@@ -288,7 +307,7 @@
         "tvg-id": "557",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12077-j9ob4gm0-v2\/imageContent-12077-j9ob4gm0-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Zee TV",
         "license-key": "",
         "license-key-local": {
@@ -307,7 +326,7 @@
         "tvg-id": "578",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12129-j9p7kluo-v2\/imageContent-12129-j9p7kluo-m3.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "&TV",
         "license-key": "",
         "license-key-local": {
@@ -326,7 +345,7 @@
         "tvg-id": "52",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-155-j5frd2uo-v1\/imageContent-155-j5frd2uo-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Colors HD",
         "license-key": "",
         "license-key-local": {
@@ -345,7 +364,7 @@
         "tvg-id": "543",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12053-j9o3yhko-v1\/imageContent-12053-j9o3yhko-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Colors",
         "license-key": "",
         "license-key-local": {
@@ -364,7 +383,7 @@
         "tvg-id": "95",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-304-j5ji9otc-v2\/imageContent-304-j5ji9otc-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Tata Play Javed Akhtar",
         "license-key": "",
         "license-key-local": {
@@ -383,7 +402,7 @@
         "tvg-id": "943",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65443-kty2tkwo-v2\/imageContent-65443-kty2tkwo-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Tata Play Videshi Kahaniyan",
         "license-key": "",
         "license-key-local": {
@@ -402,7 +421,7 @@
         "tvg-id": "964",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TPCTV_Thumbnail-v4\/TPCTV_Thumbnail.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Tata Play Classic TV",
         "license-key": "",
         "license-key-local": {
@@ -421,7 +440,7 @@
         "tvg-id": "142",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-475-j5jx44s8-v1\/imageContent-475-j5jx44s8-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "UTV Bindass",
         "license-key": "",
         "license-key-local": {
@@ -440,7 +459,7 @@
         "tvg-id": "986",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-70821-l3edt8uw-v1\/imageContent-70821-l3edt8uw-m3.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Tata Play Zindagi",
         "license-key": "",
         "license-key-local": {
@@ -459,7 +478,7 @@
         "tvg-id": "633",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49002-k5cch1cg-v2\/imageContent-49002-k5cch1cg-m5.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Investigation Discovery",
         "license-key": "",
         "license-key-local": {
@@ -478,7 +497,7 @@
         "tvg-id": "619",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12285-ja1e8580-v3\/imageContent-12285-ja1e8580-m3.png",
-        "group-title": "TSneh Shopping",
+        "group-title": "Shopping",
         "channel-name": "Naaptol",
         "license-key": "",
         "license-key-local": {
@@ -497,7 +516,7 @@
         "tvg-id": "634",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21303-je858doo-v2\/imageContent-21303-je858doo-m2.png",
-        "group-title": "TSneh Shopping",
+        "group-title": "Shopping",
         "channel-name": "Ezmall",
         "license-key": "",
         "license-key-local": {
@@ -516,7 +535,7 @@
         "tvg-id": "551",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12060-j9o91vfc-v2\/imageContent-12060-j9o91vfc-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "STAR Utsav",
         "license-key": "",
         "license-key-local": {
@@ -535,7 +554,7 @@
         "tvg-id": "523",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11969-j9luigc0-v2\/imageContent-11969-j9luigc0-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Zee Anmol",
         "license-key": "",
         "license-key-local": {
@@ -554,7 +573,7 @@
         "tvg-id": "438",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/RIS_Thumbnail-v3\/RIS_Thumbnail.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Colors Rishtey",
         "license-key": "",
         "license-key-local": {
@@ -573,7 +592,7 @@
         "tvg-id": "554",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12071-j9oa4gbc-v5\/imageContent-12071-j9oa4gbc-m4.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Sony Pal",
         "license-key": "",
         "license-key-local": {
@@ -592,7 +611,7 @@
         "tvg-id": "54",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-150-j5frd0jc-v3\/imageContent-150-j5frd0jc-m5.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "The Q",
         "license-key": "",
         "license-key-local": {
@@ -611,7 +630,7 @@
         "tvg-id": "297",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11266-j9j2spmg-v1\/imageContent-11266-j9j2spmg-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Big Magic",
         "license-key": "",
         "license-key-local": {
@@ -630,7 +649,7 @@
         "tvg-id": "51",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-158-j5frd560-v2\/imageContent-158-j5frd560-m3.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Dangal",
         "license-key": "",
         "license-key-local": {
@@ -649,7 +668,7 @@
         "tvg-id": "180",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-765-j5m2mbjk-v2\/imageContent-765-j5m2mbjk-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Anjan TV",
         "license-key": "",
         "license-key-local": {
@@ -668,7 +687,7 @@
         "tvg-id": "818",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52945-ka1wdss8-v2\/imageContent-52945-ka1wdss8-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Shemaroo TV",
         "license-key": "",
         "license-key-local": {
@@ -687,7 +706,7 @@
         "tvg-id": "888",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-60986-klq1vs5s-v2\/imageContent-60986-klq1vs5s-m5.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Ishara",
         "license-key": "",
         "license-key-local": {
@@ -706,7 +725,7 @@
         "tvg-id": "1045",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SHEUM_Thumbnail-v2\/SHEUM_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Shemaroo UMANG",
         "license-key": "",
         "license-key-local": {
@@ -725,7 +744,7 @@
         "tvg-id": "990",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/ATRAN_Thumbnail-v6\/ATRAN_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Atrangii",
         "license-key": "",
         "license-key-local": {
@@ -744,7 +763,7 @@
         "tvg-id": "326",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11350-j9jpk8pk-v1\/imageContent-11350-j9jpk8pk-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "DD Kisan",
         "license-key": "",
         "license-key-local": {
@@ -763,7 +782,7 @@
         "tvg-id": "808",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49809-k7454ppk-v3\/imageContent-49809-k7454ppk-m6.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Tata Play Hits",
         "license-key": "",
         "license-key-local": {
@@ -782,7 +801,7 @@
         "tvg-id": "187",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1577-j5xrm7fc-v1\/imageContent-1577-j5xrm7fc-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Colors Infinity HD",
         "license-key": "",
         "license-key-local": {
@@ -801,7 +820,7 @@
         "tvg-id": "307",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11296-j9j5ux7s-v2\/imageContent-11296-j9j5ux7s-m3.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Comedy Central HD",
         "license-key": "",
         "license-key-local": {
@@ -820,7 +839,7 @@
         "tvg-id": "306",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11293-j9j5u4o0-v3\/imageContent-11293-j9j5u4o0-m2.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Comedy Central",
         "license-key": "",
         "license-key-local": {
@@ -839,7 +858,7 @@
         "tvg-id": "1101",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/WOMFRE_Thumbnail-v1\/WOMFRE_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Woman",
         "license-key": "",
         "license-key-local": {
@@ -858,7 +877,7 @@
         "tvg-id": "544",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18305-jcqmvp7s-v1\/imageContent-18305-jcqmvp7s-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "Colors Infinity",
         "license-key": "",
         "license-key-local": {
@@ -877,7 +896,7 @@
         "tvg-id": "486",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43899-jyofyk1s-v4\/imageContent-43899-jyofyk1s-m4.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Tata Play Bollywood Premiere",
         "license-key": "",
         "license-key-local": {
@@ -896,7 +915,7 @@
         "tvg-id": "789",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48748-k4jbpl00-v2\/imageContent-48748-k4jbpl00-m3.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Tata Play Hollywood Local",
         "license-key": "",
         "license-key-local": {
@@ -915,7 +934,7 @@
         "tvg-id": "245",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SGHD_Thumbnail-v2\/SGHD_Thumbnail.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "STAR GOLD HD",
         "license-key": "",
         "license-key-local": {
@@ -934,7 +953,7 @@
         "tvg-id": "80",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-243-j5fyl2f4-v3\/imageContent-243-j5fyl2f4-m4.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "SONY MAX HD",
         "license-key": "",
         "license-key-local": {
@@ -953,7 +972,7 @@
         "tvg-id": "132",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-441-j5jt3mmg-v3\/imageContent-441-j5jt3mmg-m3.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "SONY MAX",
         "license-key": "",
         "license-key-local": {
@@ -972,7 +991,7 @@
         "tvg-id": "741",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44333-jz3hpme0-v4\/imageContent-44333-jz3hpme0-m8.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Tata Play Classic Cinema",
         "license-key": "",
         "license-key-local": {
@@ -991,7 +1010,7 @@
         "tvg-id": "503",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11915-j9l5clzs-v1\/imageContent-11915-j9l5clzs-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Zee Cinema HD",
         "license-key": "",
         "license-key-local": {
@@ -1010,7 +1029,7 @@
         "tvg-id": "123",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11027-j8yjr8k0-v1\/imageContent-11027-j8yjr8k0-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Zee Cinema",
         "license-key": "",
         "license-key-local": {
@@ -1029,7 +1048,7 @@
         "tvg-id": "175",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31233-jli1wlvc-v1\/imageContent-31233-jli1wlvc-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Zee Bollywood",
         "license-key": "",
         "license-key-local": {
@@ -1048,7 +1067,7 @@
         "tvg-id": "727",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-42199-jxh2zlj4-v1\/imageContent-42199-jxh2zlj4-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Zee Classic",
         "license-key": "",
         "license-key-local": {
@@ -1067,7 +1086,7 @@
         "tvg-id": "666",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31419-jmb48u74-v3\/imageContent-31419-jmb48u74-m4.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Tata Play Theatre HD",
         "license-key": "",
         "license-key-local": {
@@ -1086,7 +1105,7 @@
         "tvg-id": "267",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11173-j9hth720-v1\/imageContent-11173-j9hth720-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "&pictures HD",
         "license-key": "",
         "license-key-local": {
@@ -1105,7 +1124,7 @@
         "tvg-id": "148",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-499-j5jydp7s-v1\/imageContent-499-j5jydp7s-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "&pictures",
         "license-key": "",
         "license-key-local": {
@@ -1124,7 +1143,7 @@
         "tvg-id": "677",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34170-jok0hf00-v7\/imageContent-34170-jok0hf00-m8.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Tata Play ShortsTV",
         "license-key": "",
         "license-key-local": {
@@ -1143,7 +1162,7 @@
         "tvg-id": "61",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-183-j5fsqz5c-v2\/imageContent-183-j5fsqz5c-m2.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Colors Cineplex HD",
         "license-key": "",
         "license-key-local": {
@@ -1162,7 +1181,7 @@
         "tvg-id": "53",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-149-j5frd0jc-v2\/imageContent-149-j5frd0jc-m2.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Colors Cineplex",
         "license-key": "",
         "license-key-local": {
@@ -1181,7 +1200,7 @@
         "tvg-id": "730",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43104-jxzls8yw-v2\/imageContent-43104-jxzls8yw-m2.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "B4U Kadak",
         "license-key": "",
         "license-key-local": {
@@ -1200,7 +1219,7 @@
         "tvg-id": "100",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11024-j8yix4g8-v1\/imageContent-11024-j8yix4g8-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Zee Action",
         "license-key": "",
         "license-key-local": {
@@ -1219,7 +1238,7 @@
         "tvg-id": "1003",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72254-l6dn8nco-v3\/imageContent-72254-l6dn8nco-m4.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Tata Play South Talkies",
         "license-key": "",
         "license-key-local": {
@@ -1238,7 +1257,7 @@
         "tvg-id": "56",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-198-j5fsr7mw-v2\/imageContent-198-j5fsr7mw-m3.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Sony Wah",
         "license-key": "",
         "license-key-local": {
@@ -1257,7 +1276,7 @@
         "tvg-id": "7",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-18-j5f9ui8g-v1\/imageContent-18-j5f9ui8g-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "B4U Movies",
         "license-key": "",
         "license-key-local": {
@@ -1276,7 +1295,7 @@
         "tvg-id": "120",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-402-j5jq1gko-v3\/imageContent-402-j5jq1gko-m4.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "SONY MAX 2",
         "license-key": "",
         "license-key-local": {
@@ -1295,7 +1314,7 @@
         "tvg-id": "182",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-771-j5m3ayw0-v4\/imageContent-771-j5m3ayw0-m4.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Cinema TV India",
         "license-key": "",
         "license-key-local": {
@@ -1314,7 +1333,7 @@
         "tvg-id": "276",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11200-j9i4gzig-v3\/imageContent-11200-j9i4gzig-m4.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "WoW Cinema One",
         "license-key": "",
         "license-key-local": {
@@ -1333,7 +1352,7 @@
         "tvg-id": "194",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-798-j5m7esnc-v4\/imageContent-798-j5m7esnc-m11.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Dangal 2",
         "license-key": "",
         "license-key-local": {
@@ -1352,7 +1371,7 @@
         "tvg-id": "296",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11263-j9j1tch4-v2\/imageContent-11263-j9j1tch4-m5.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "BFLIX",
         "license-key": "",
         "license-key-local": {
@@ -1371,7 +1390,7 @@
         "tvg-id": "64",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11090-j95hdh6o-v1\/imageContent-11090-j95hdh6o-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Zee Anmol Cinema",
         "license-key": "",
         "license-key-local": {
@@ -1390,7 +1409,7 @@
         "tvg-id": "823",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-53943-kblsqraw-v3\/imageContent-53943-kblsqraw-m4.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Goldmines",
         "license-key": "",
         "license-key-local": {
@@ -1409,7 +1428,7 @@
         "tvg-id": "731",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43106-jxzlt6x4-v2\/imageContent-43106-jxzlt6x4-m7.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Manoranjan TV",
         "license-key": "",
         "license-key-local": {
@@ -1428,7 +1447,7 @@
         "tvg-id": "965",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67799-kx7m7rhc-v1\/imageContent-67799-kx7m7rhc-m2.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Manoranjan Grand",
         "license-key": "",
         "license-key-local": {
@@ -1447,7 +1466,7 @@
         "tvg-id": "173",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-748-j5l5fnts-v1\/imageContent-748-j5l5fnts-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Movies Now",
         "license-key": "",
         "license-key-local": {
@@ -1466,7 +1485,7 @@
         "tvg-id": "1000",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71752-l5hqgxso-v2\/imageContent-71752-l5hqgxso-m1.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Colors Cineplex Bollywood",
         "license-key": "",
         "license-key-local": {
@@ -1485,7 +1504,7 @@
         "tvg-id": "234",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1017-j5ngpo2g-v1\/imageContent-1017-j5ngpo2g-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "MNX",
         "license-key": "",
         "license-key-local": {
@@ -1504,7 +1523,7 @@
         "tvg-id": "1037",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DHAMB4U_Thumbnail-v2\/DHAMB4U_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Dhamaka Movies B4U",
         "license-key": "",
         "license-key-local": {
@@ -1523,7 +1542,7 @@
         "tvg-id": "32",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-93-j5fjv614-v3\/imageContent-93-j5fjv614-m3.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "SONY PIX HD",
         "license-key": "",
         "license-key-local": {
@@ -1542,7 +1561,7 @@
         "tvg-id": "558",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12080-j9obub60-v6\/imageContent-12080-j9obub60-m6.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "SONY PIX",
         "license-key": "",
         "license-key-local": {
@@ -1561,7 +1580,7 @@
         "tvg-id": "562",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12095-j9ooixfs-v1\/imageContent-12095-j9ooixfs-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Movies Now HD",
         "license-key": "",
         "license-key-local": {
@@ -1580,7 +1599,7 @@
         "tvg-id": "210",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-826-j5m9kx5c-v1\/imageContent-826-j5m9kx5c-m1.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "MN+ HD",
         "license-key": "",
         "license-key-local": {
@@ -1599,7 +1618,7 @@
         "tvg-id": "599",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12216-j9qm5hjs-v2\/imageContent-12216-j9qm5hjs-m2.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "MNX HD",
         "license-key": "",
         "license-key-local": {
@@ -1618,7 +1637,7 @@
         "tvg-id": "174",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-751-j5l5kb9k-v3\/imageContent-751-j5l5kb9k-m3.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Romedy Now",
         "license-key": "",
         "license-key-local": {
@@ -1637,7 +1656,7 @@
         "tvg-id": "223",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-941-j5mhk5fc-v1\/imageContent-941-j5mhk5fc-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "DD Sports",
         "license-key": "",
         "license-key-local": {
@@ -1656,7 +1675,7 @@
         "tvg-id": "78",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8301-j7hc0820-v1\/imageContent-8301-j7hc0820-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Star Sports 1 HD",
         "license-key": "",
         "license-key-local": {
@@ -1675,7 +1694,7 @@
         "tvg-id": "235",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1021-j5nj3c68-v1\/imageContent-1021-j5nj3c68-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Star Sports 2 HD",
         "license-key": "",
         "license-key-local": {
@@ -1694,7 +1713,7 @@
         "tvg-id": "24",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-60-j5fdr6a0-v1\/imageContent-60-j5fdr6a0-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Star Sports 1 Hindi HD",
         "license-key": "",
         "license-key-local": {
@@ -1713,7 +1732,7 @@
         "tvg-id": "246",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-7891-j75vq7k0-v1\/imageContent-7891-j75vq7k0-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Star Sports Select 1 HD",
         "license-key": "",
         "license-key-local": {
@@ -1732,7 +1751,7 @@
         "tvg-id": "463",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11791-j9kyqpy8-v1\/imageContent-11791-j9kyqpy8-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Star Sports Select 2 HD",
         "license-key": "",
         "license-key-local": {
@@ -1751,7 +1770,7 @@
         "tvg-id": "81",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-261-j5fz9bvk-v4\/imageContent-261-j5fz9bvk-m4.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 1 HD",
         "license-key": "",
         "license-key-local": {
@@ -1770,7 +1789,7 @@
         "tvg-id": "150",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-513-j5jzouqw-v5\/imageContent-513-j5jzouqw-m7.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 1",
         "license-key": "",
         "license-key-local": {
@@ -1789,7 +1808,7 @@
         "tvg-id": "462",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11784-j9kylfd4-v2\/imageContent-11784-j9kylfd4-m3.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 2 HD",
         "license-key": "",
         "license-key-local": {
@@ -1808,7 +1827,7 @@
         "tvg-id": "170",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-742-j5l50le0-v5\/imageContent-742-j5l50le0-m7.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 2",
         "license-key": "",
         "license-key-local": {
@@ -1827,7 +1846,7 @@
         "tvg-id": "464",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11787-j9kynnm0-v3\/imageContent-11787-j9kynnm0-m3.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 3 HD",
         "license-key": "",
         "license-key-local": {
@@ -1846,7 +1865,7 @@
         "tvg-id": "171",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-739-j5l4y6yw-v5\/imageContent-739-j5l4y6yw-m5.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 3",
         "license-key": "",
         "license-key-local": {
@@ -1865,7 +1884,7 @@
         "tvg-id": "35",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-108-j5fl5wwg-v3\/imageContent-108-j5fl5wwg-m3.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "SONY SPORTS TEN 5 HD",
         "license-key": "",
         "license-key-local": {
@@ -1884,7 +1903,7 @@
         "tvg-id": "1033",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-74232-la6z41u8-v3\/imageContent-74232-la6z41u8-m5.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Sports 18 - 1 HD",
         "license-key": "",
         "license-key-local": {
@@ -1903,7 +1922,7 @@
         "tvg-id": "980",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-70046-l21cybww-v2\/imageContent-70046-l21cybww-m5.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Sports 18 - 1",
         "license-key": "",
         "license-key-local": {
@@ -1922,7 +1941,7 @@
         "tvg-id": "812",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52842-k980h8vc-v1\/imageContent-52842-k980h8vc-m2.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Eurosport HD",
         "license-key": "",
         "license-key-local": {
@@ -1941,7 +1960,7 @@
         "tvg-id": "691",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34886-jqc7dybs-v2\/imageContent-34886-jqc7dybs-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "DD News HD",
         "license-key": "",
         "license-key-local": {
@@ -1960,7 +1979,7 @@
         "tvg-id": "693",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35309-jqxwmcq0-v4\/imageContent-35309-jqxwmcq0-m4.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "Eurosport",
         "license-key": "",
         "license-key-local": {
@@ -1979,7 +1998,7 @@
         "tvg-id": "815",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52856-k984c4vc-v1\/imageContent-52856-k984c4vc-m1.png",
-        "group-title": "TSneh Sports",
+        "group-title": "Sports",
         "channel-name": "1sports",
         "license-key": "",
         "license-key-local": {
@@ -1998,7 +2017,7 @@
         "tvg-id": "322",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11333-j9joxlw8-v2\/imageContent-11333-j9joxlw8-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "DD News",
         "license-key": "",
         "license-key-local": {
@@ -2017,7 +2036,7 @@
         "tvg-id": "783",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47647-k2lbp2q8-v2\/imageContent-47647-k2lbp2q8-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Tata Play Seniors",
         "license-key": "",
         "license-key-local": {
@@ -2036,7 +2055,7 @@
         "tvg-id": "177",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-759-j5m13014-v2\/imageContent-759-j5m13014-m3.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "ABP News",
         "license-key": "",
         "license-key-local": {
@@ -2055,7 +2074,7 @@
         "tvg-id": "179",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-483-j5jx9x48-v1\/imageContent-483-j5jx9x48-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "NDTV India",
         "license-key": "",
         "license-key-local": {
@@ -2074,7 +2093,7 @@
         "tvg-id": "1056",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/HAGHAR_Thumbnail-v1\/HAGHAR_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Tata Play Har Ghar Startup",
         "license-key": "",
         "license-key-local": {
@@ -2093,7 +2112,7 @@
         "tvg-id": "689",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34652-jpmey8gw-v1\/imageContent-34652-jpmey8gw-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Aaj Tak HD",
         "license-key": "",
         "license-key-local": {
@@ -2112,7 +2131,7 @@
         "tvg-id": "259",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11110-j95ioyag-v1\/imageContent-11110-j95ioyag-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Zee News",
         "license-key": "",
         "license-key-local": {
@@ -2131,7 +2150,7 @@
         "tvg-id": "153",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-537-j5kwkd88-v1\/imageContent-537-j5kwkd88-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Aaj Tak",
         "license-key": "",
         "license-key-local": {
@@ -2150,7 +2169,7 @@
         "tvg-id": "872",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-58613-kj283ly8-v2\/imageContent-58613-kj283ly8-m2.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Tata Play Astro Duniya",
         "license-key": "",
         "license-key-local": {
@@ -2169,7 +2188,7 @@
         "tvg-id": "104",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8568-j7lnde80-v1\/imageContent-8568-j7lnde80-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "India TV",
         "license-key": "",
         "license-key-local": {
@@ -2188,7 +2207,7 @@
         "tvg-id": "209",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-849-j5m9tmf4-v1\/imageContent-849-j5m9tmf4-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News 24",
         "license-key": "",
         "license-key-local": {
@@ -2207,7 +2226,7 @@
         "tvg-id": "929",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64069-kra2o75k-v2\/imageContent-64069-kra2o75k-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Tata Play JEE Prep",
         "license-key": "",
         "license-key-local": {
@@ -2226,7 +2245,7 @@
         "tvg-id": "928",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64066-kra2j2qo-v2\/imageContent-64066-kra2j2qo-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Tata Play NEET Prep",
         "license-key": "",
         "license-key-local": {
@@ -2245,7 +2264,7 @@
         "tvg-id": "106",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-339-j5jm6kko-v1\/imageContent-339-j5jm6kko-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News18 India",
         "license-key": "",
         "license-key-local": {
@@ -2264,7 +2283,7 @@
         "tvg-id": "514",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11978-j9lum7d4-v1\/imageContent-11978-j9lum7d4-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Zee Hindustan",
         "license-key": "",
         "license-key-local": {
@@ -2283,7 +2302,7 @@
         "tvg-id": "696",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35599-jrm11j9c-v1\/imageContent-35599-jrm11j9c-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "R Bharat",
         "license-key": "",
         "license-key-local": {
@@ -2302,7 +2321,7 @@
         "tvg-id": "183",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-774-j5m3h6nk-v1\/imageContent-774-j5m3h6nk-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "India News",
         "license-key": "",
         "license-key-local": {
@@ -2321,7 +2340,7 @@
         "tvg-id": "36",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-114-j5fl632o-v1\/imageContent-114-j5fl632o-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News Nation",
         "license-key": "",
         "license-key-local": {
@@ -2340,7 +2359,7 @@
         "tvg-id": "706",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67672-kwly0m4w-v1\/imageContent-67672-kwly0m4w-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "TV9 Bharatvarsh",
         "license-key": "",
         "license-key-local": {
@@ -2359,7 +2378,7 @@
         "tvg-id": "485",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11859-j9l2n36w-v2\/imageContent-11859-j9l2n36w-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "TOTAL TV",
         "license-key": "",
         "license-key-local": {
@@ -2378,7 +2397,7 @@
         "tvg-id": "932",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-64606-krslbshs-v1\/imageContent-64606-krslbshs-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Times Now Navbharat HD",
         "license-key": "",
         "license-key-local": {
@@ -2397,7 +2416,7 @@
         "tvg-id": "966",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-67796-kx7lokw8-v2\/imageContent-67796-kx7lokw8-m4.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Times Now Navbharat",
         "license-key": "",
         "license-key-local": {
@@ -2416,7 +2435,7 @@
         "tvg-id": "831",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55547-kdzeosow-v3\/imageContent-55547-kdzeosow-m6.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News India 24x7",
         "license-key": "",
         "license-key-local": {
@@ -2435,7 +2454,7 @@
         "tvg-id": "1010",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BH24_Thumbnail-v3\/BH24_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Bharat 24",
         "license-key": "",
         "license-key-local": {
@@ -2454,7 +2473,7 @@
         "tvg-id": "1031",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72980-l8fn3f28-v2\/imageContent-72980-l8fn3f28-m4.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Surya Samachar",
         "license-key": "",
         "license-key-local": {
@@ -2473,7 +2492,7 @@
         "tvg-id": "475",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11831-j9kzkn40-v1\/imageContent-11831-j9kzkn40-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Sudarshan News",
         "license-key": "",
         "license-key-local": {
@@ -2492,7 +2511,7 @@
         "tvg-id": "1051",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BHEXP_Thumbnail-v2\/BHEXP_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Bharat Express",
         "license-key": "",
         "license-key-local": {
@@ -2511,7 +2530,7 @@
         "tvg-id": "1084",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/INDLive_Thumbnail-v1\/INDLive_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "India Daily Live",
         "license-key": "",
         "license-key-local": {
@@ -2530,7 +2549,7 @@
         "tvg-id": "286",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-17573-jclve4rc-v1\/imageContent-17573-jclve4rc-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "APN News",
         "license-key": "",
         "license-key-local": {
@@ -2549,7 +2568,7 @@
         "tvg-id": "950",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-66223-ku9gfjug-v1\/imageContent-66223-ku9gfjug-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "ET Now Swadesh",
         "license-key": "",
         "license-key-local": {
@@ -2568,7 +2587,7 @@
         "tvg-id": "685",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34516-jp9bj0qg-v4\/imageContent-34516-jp9bj0qg-m4.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "India Voice",
         "license-key": "",
         "license-key-local": {
@@ -2587,7 +2606,7 @@
         "tvg-id": "414",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11634-j9k0pbr4-v1\/imageContent-11634-j9k0pbr4-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News 1 India",
         "license-key": "",
         "license-key-local": {
@@ -2606,7 +2625,7 @@
         "tvg-id": "344",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11467-j9jr3k80-v2\/imageContent-11467-j9jr3k80-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Hindi Khabar",
         "license-key": "",
         "license-key-local": {
@@ -2625,7 +2644,7 @@
         "tvg-id": "291",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11243-j9itj54w-v2\/imageContent-11243-j9itj54w-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Bharat Samachar",
         "license-key": "",
         "license-key-local": {
@@ -2644,7 +2663,7 @@
         "tvg-id": "384",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11527-j9jtx9hk-v2\/imageContent-11527-j9jtx9hk-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Khabarain Abhi Tak",
         "license-key": "",
         "license-key-local": {
@@ -2663,7 +2682,7 @@
         "tvg-id": "441",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11719-j9ktg6ds-v2\/imageContent-11719-j9ktg6ds-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Samay",
         "license-key": "",
         "license-key-local": {
@@ -2682,7 +2701,7 @@
         "tvg-id": "848",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56488-kfgbqzso-v3\/imageContent-56488-kfgbqzso-m5.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Network 10",
         "license-key": "",
         "license-key-local": {
@@ -2701,7 +2720,7 @@
         "tvg-id": "701",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-37210-jswmlty0-v2\/imageContent-37210-jswmlty0-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Jantantra TV",
         "license-key": "",
         "license-key-local": {
@@ -2720,7 +2739,7 @@
         "tvg-id": "869",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-58484-kixj8h6o-v3\/imageContent-58484-kixj8h6o-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Prime News",
         "license-key": "",
         "license-key-local": {
@@ -2739,7 +2758,7 @@
         "tvg-id": "988",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-70993-l3v760zc-v1\/imageContent-70993-l3v760zc-m4.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Har Khabar",
         "license-key": "",
         "license-key-local": {
@@ -2758,7 +2777,7 @@
         "tvg-id": "260",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11120-j95jyuao-v1\/imageContent-11120-j95jyuao-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Zee Business",
         "license-key": "",
         "license-key-local": {
@@ -2777,7 +2796,7 @@
         "tvg-id": "278",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11206-j9icarsw-v2\/imageContent-11206-j9icarsw-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Good News Today",
         "license-key": "",
         "license-key-local": {
@@ -2796,7 +2815,7 @@
         "tvg-id": "784",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/FNEWS_Thumbnail-v2\/FNEWS_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "FM News",
         "license-key": "",
         "license-key-local": {
@@ -2815,7 +2834,7 @@
         "tvg-id": "213",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-825-j5m9c6c0-v2\/imageContent-825-j5m9c6c0-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Sansad TV",
         "license-key": "",
         "license-key-local": {
@@ -2834,7 +2853,7 @@
         "tvg-id": "204",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-846-j5m9p55k-v1\/imageContent-846-j5m9p55k-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "CNBC Awaaz",
         "license-key": "",
         "license-key-local": {
@@ -2853,7 +2872,7 @@
         "tvg-id": "212",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-858-j5ma94ag-v2\/imageContent-858-j5ma94ag-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Sansad TV - Rajya Sabha",
         "license-key": "",
         "license-key-local": {
@@ -2872,7 +2891,7 @@
         "tvg-id": "208",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-834-j5m9nrrs-v1\/imageContent-834-j5m9nrrs-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "NDTV 24x7",
         "license-key": "",
         "license-key-local": {
@@ -2891,7 +2910,7 @@
         "tvg-id": "547",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11853-j9l1tvhs-v4\/imageContent-11853-j9l1tvhs-m5.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Times Now World",
         "license-key": "",
         "license-key-local": {
@@ -2910,7 +2929,7 @@
         "tvg-id": "90",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-303-j5ji8zco-v3\/imageContent-303-j5ji8zco-m3.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "TIMES NOW",
         "license-key": "",
         "license-key-local": {
@@ -2929,7 +2948,7 @@
         "tvg-id": "1",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-3-j5dkuhwo-v1\/imageContent-3-j5dkuhwo-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "INDIA TODAY",
         "license-key": "",
         "license-key-local": {
@@ -2948,7 +2967,7 @@
         "tvg-id": "206",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-843-j5m9oyzc-v1\/imageContent-843-j5m9oyzc-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "CNN News18",
         "license-key": "",
         "license-key-local": {
@@ -2967,7 +2986,7 @@
         "tvg-id": "189",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8012-j7a2doxc-v1\/imageContent-8012-j7a2doxc-m1.png",
-        "group-title": "TSneh English News",
+        "group-title": "English News",
         "channel-name": "NewsX",
         "license-key": "",
         "license-key-local": {
@@ -2986,7 +3005,7 @@
         "tvg-id": "591",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12189-j9plqlf4-v1\/imageContent-12189-j9plqlf4-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "MIRROR NOW",
         "license-key": "",
         "license-key-local": {
@@ -3005,7 +3024,7 @@
         "tvg-id": "255",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9000-j7rkz0m0-v1\/imageContent-9000-j7rkz0m0-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "WION",
         "license-key": "",
         "license-key-local": {
@@ -3024,7 +3043,7 @@
         "tvg-id": "72",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-231-j5fxh0ag-v1\/imageContent-231-j5fxh0ag-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "REPUBLIC TV",
         "license-key": "",
         "license-key-local": {
@@ -3043,7 +3062,7 @@
         "tvg-id": "304",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11284-j9j4sn4o-v2\/imageContent-11284-j9j4sn4o-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "CNBC TV18 Prime HD",
         "license-key": "",
         "license-key-local": {
@@ -3062,7 +3081,7 @@
         "tvg-id": "324",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11344-j9jpg7nc-v1\/imageContent-11344-j9jpg7nc-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "DD India",
         "license-key": "",
         "license-key-local": {
@@ -3081,7 +3100,7 @@
         "tvg-id": "93",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-294-j5ji8n08-v1\/imageContent-294-j5ji8n08-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "NDTV Profit Prime",
         "license-key": "",
         "license-key-local": {
@@ -3100,7 +3119,7 @@
         "tvg-id": "168",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-731-j5l3muhs-v1\/imageContent-731-j5l3muhs-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "CNBC-TV18",
         "license-key": "",
         "license-key-local": {
@@ -3119,7 +3138,7 @@
         "tvg-id": "88",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-6904-j6vreaps-v1\/imageContent-6904-j6vreaps-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "ET NOW",
         "license-key": "",
         "license-key-local": {
@@ -3138,7 +3157,7 @@
         "tvg-id": "243",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-4154-j69pdmvk-v1\/imageContent-4154-j69pdmvk-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "CNN",
         "license-key": "",
         "license-key-local": {
@@ -3157,7 +3176,7 @@
         "tvg-id": "188",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/BBCWNW_Thumbnail-v3\/BBCWNW_Thumbnail.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "BBC News",
         "license-key": "",
         "license-key-local": {
@@ -3176,7 +3195,7 @@
         "tvg-id": "190",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-789-j5m5m0uw-v1\/imageContent-789-j5m5m0uw-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Al Jazeera",
         "license-key": "",
         "license-key-local": {
@@ -3195,7 +3214,7 @@
         "tvg-id": "157",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-548-j5kxtaig-v1\/imageContent-548-j5kxtaig-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Channel News Asia",
         "license-key": "",
         "license-key-local": {
@@ -3214,7 +3233,7 @@
         "tvg-id": "131",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-435-j5jsyz6o-v1\/imageContent-435-j5jsyz6o-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "France 24",
         "license-key": "",
         "license-key-local": {
@@ -3233,7 +3252,7 @@
         "tvg-id": "65",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-204-j5ftndtc-v1\/imageContent-204-j5ftndtc-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "TV5 Monde Asie",
         "license-key": "",
         "license-key-local": {
@@ -3252,7 +3271,7 @@
         "tvg-id": "60",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-186-j5fsr1go-v1\/imageContent-186-j5fsr1go-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "DW",
         "license-key": "",
         "license-key-local": {
@@ -3271,7 +3290,7 @@
         "tvg-id": "105",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-324-j5jl5hp4-v2\/imageContent-324-j5jl5hp4-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Australia TV",
         "license-key": "",
         "license-key-local": {
@@ -3290,7 +3309,7 @@
         "tvg-id": "98",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-312-j5jjsfhs-v1\/imageContent-312-j5jjsfhs-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Russia Today",
         "license-key": "",
         "license-key-local": {
@@ -3309,7 +3328,7 @@
         "tvg-id": "976",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69827-l1dh5izk-v1\/imageContent-69827-l1dh5izk-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "NHK World Japan",
         "license-key": "",
         "license-key-local": {
@@ -3328,7 +3347,7 @@
         "tvg-id": "587",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35365-jr3xz4uo-v5\/imageContent-35365-jr3xz4uo-m6.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Super Hungama",
         "license-key": "",
         "license-key-local": {
@@ -3347,7 +3366,7 @@
         "tvg-id": "114",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1356-j5tdnwmw-v1\/imageContent-1356-j5tdnwmw-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Disney",
         "license-key": "",
         "license-key-local": {
@@ -3366,7 +3385,7 @@
         "tvg-id": "71",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25721-jia4i70o-v2\/imageContent-25721-jia4i70o-m3.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Tata Play English in Hindi",
         "license-key": "",
         "license-key-local": {
@@ -3385,7 +3404,7 @@
         "tvg-id": "433",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11658-j9k5lvgo-v1\/imageContent-11658-j9k5lvgo-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Nick HD+",
         "license-key": "",
         "license-key-local": {
@@ -3404,7 +3423,7 @@
         "tvg-id": "138",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-465-j5jw9va0-v1\/imageContent-465-j5jw9va0-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Nick",
         "license-key": "",
         "license-key-local": {
@@ -3423,7 +3442,7 @@
         "tvg-id": "626",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-13094-jbdzlsfs-v2\/imageContent-13094-jbdzlsfs-m2.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Tata Play Fun Learn Preschool",
         "license-key": "",
         "license-key-local": {
@@ -3442,7 +3461,7 @@
         "tvg-id": "627",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-13097-jbdzn9og-v2\/imageContent-13097-jbdzn9og-m2.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Tata Play Fun Learn Junior",
         "license-key": "",
         "license-key-local": {
@@ -3461,7 +3480,7 @@
         "tvg-id": "681",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-34164-jok06xoo-v1\/imageContent-34164-jok06xoo-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Cartoon Network HD+",
         "license-key": "",
         "license-key-local": {
@@ -3480,7 +3499,7 @@
         "tvg-id": "238",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11161-j99h67u8-v1\/imageContent-11161-j99h67u8-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Cartoon Network",
         "license-key": "",
         "license-key-local": {
@@ -3499,7 +3518,7 @@
         "tvg-id": "239",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-2694-j638bugw-v1\/imageContent-2694-j638bugw-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Pogo",
         "license-key": "",
         "license-key-local": {
@@ -3518,7 +3537,7 @@
         "tvg-id": "119",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24724-jgvwokqw-v1\/imageContent-24724-jgvwokqw-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Discovery Kids",
         "license-key": "",
         "license-key-local": {
@@ -3537,7 +3556,7 @@
         "tvg-id": "127",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8018-j7a7n1a8-v1\/imageContent-8018-j7a7n1a8-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Sonic Nickelodeon",
         "license-key": "",
         "license-key-local": {
@@ -3556,7 +3575,7 @@
         "tvg-id": "45",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-132-j5fpedbs-v4\/imageContent-132-j5fpedbs-m6.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "SONY YAY!",
         "license-key": "",
         "license-key-local": {
@@ -3575,7 +3594,7 @@
         "tvg-id": "994",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71550-l4zi50uw-v2\/imageContent-71550-l4zi50uw-m5.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Tata Play Toons+",
         "license-key": "",
         "license-key-local": {
@@ -3594,7 +3613,7 @@
         "tvg-id": "867",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57985-khvdchrs-v2\/imageContent-57985-khvdchrs-m2.png",
-        "group-title": "TSneh Regional Kannada",
+        "group-title": "Regional Kannada",
         "channel-name": "Gubbare",
         "license-key": "",
         "license-key-local": {
@@ -3613,7 +3632,7 @@
         "tvg-id": "905",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62236-kny7yzaw-v1\/imageContent-62236-kny7yzaw-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "ETV Bal Bharat",
         "license-key": "",
         "license-key-local": {
@@ -3632,7 +3651,7 @@
         "tvg-id": "118",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-390-j5jpps1s-v1\/imageContent-390-j5jpps1s-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Nick Jr",
         "license-key": "",
         "license-key-local": {
@@ -3651,7 +3670,7 @@
         "tvg-id": "144",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35368-jr3xz7xs-v1\/imageContent-35368-jr3xz7xs-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "Disney Junior",
         "license-key": "",
         "license-key-local": {
@@ -3670,7 +3689,7 @@
         "tvg-id": "816",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52868-k9af4lxs-v1\/imageContent-52868-k9af4lxs-m1.png",
-        "group-title": "TSneh Kids",
+        "group-title": "Kids",
         "channel-name": "CBeeBies",
         "license-key": "",
         "license-key-local": {
@@ -3689,7 +3708,7 @@
         "tvg-id": "111",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-352-j5jmrkqw-v2\/imageContent-352-j5jmrkqw-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Tata Play Smart Manager",
         "license-key": "",
         "license-key-local": {
@@ -3708,7 +3727,7 @@
         "tvg-id": "167",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-703-j5l1wgco-v2\/imageContent-703-j5l1wgco-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Tata Play Vedic Maths",
         "license-key": "",
         "license-key-local": {
@@ -3727,7 +3746,7 @@
         "tvg-id": "605",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12234-j9qoqc54-v1\/imageContent-12234-j9qoqc54-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "National Geographic HD",
         "license-key": "",
         "license-key-local": {
@@ -3746,7 +3765,7 @@
         "tvg-id": "137",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-462-j5jw44hk-v2\/imageContent-462-j5jw44hk-m3.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "National Geographic",
         "license-key": "",
         "license-key-local": {
@@ -3765,7 +3784,7 @@
         "tvg-id": "413",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11631-j9k0ndjc-v1\/imageContent-11631-j9k0ndjc-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Nat Geo Wild HD",
         "license-key": "",
         "license-key-local": {
@@ -3784,7 +3803,7 @@
         "tvg-id": "184",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-438-j5jt26xc-v2\/imageContent-438-j5jt26xc-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Nat Geo Wild",
         "license-key": "",
         "license-key-local": {
@@ -3803,7 +3822,7 @@
         "tvg-id": "341",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11396-j9jq7jg0-v1\/imageContent-11396-j9jq7jg0-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Discovery HD World",
         "license-key": "",
         "license-key-local": {
@@ -3822,7 +3841,7 @@
         "tvg-id": "219",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-876-j5mcolzc-v2\/imageContent-876-j5mcolzc-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Discovery Channel",
         "license-key": "",
         "license-key-local": {
@@ -3841,7 +3860,7 @@
         "tvg-id": "287",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44915-jzuyh3w0-v1\/imageContent-44915-jzuyh3w0-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Animal Planet HD World",
         "license-key": "",
         "license-key-local": {
@@ -3860,7 +3879,7 @@
         "tvg-id": "130",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-432-j5jsx754-v4\/imageContent-432-j5jsx754-m4.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Animal Planet",
         "license-key": "",
         "license-key-local": {
@@ -3879,7 +3898,7 @@
         "tvg-id": "113",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-369-j5jo9i3s-v1\/imageContent-369-j5jo9i3s-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "Discovery Science",
         "license-key": "",
         "license-key-local": {
@@ -3898,7 +3917,7 @@
         "tvg-id": "616",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12267-j9qx2si0-v3\/imageContent-12267-j9qx2si0-m3.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "History TV18 HD",
         "license-key": "",
         "license-key-local": {
@@ -3917,7 +3936,7 @@
         "tvg-id": "172",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-745-j5l54bnc-v2\/imageContent-745-j5l54bnc-m2.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "History TV18",
         "license-key": "",
         "license-key-local": {
@@ -3936,7 +3955,7 @@
         "tvg-id": "460",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11779-j9kx7rk0-v3\/imageContent-11779-j9kx7rk0-m4.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "SONY BBC Earth HD",
         "license-key": "",
         "license-key-local": {
@@ -3955,7 +3974,7 @@
         "tvg-id": "158",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-551-j5ky7ufk-v5\/imageContent-551-j5ky7ufk-m7.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "SONY BBC Earth",
         "license-key": "",
         "license-key-local": {
@@ -3974,7 +3993,7 @@
         "tvg-id": "126",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8017-j7a4nf20-v1\/imageContent-8017-j7a4nf20-m1.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "EPIC",
         "license-key": "",
         "license-key-local": {
@@ -3993,7 +4012,7 @@
         "tvg-id": "367",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11429-j9jqu3y0-v1\/imageContent-11429-j9jqu3y0-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "FOX Life HD",
         "license-key": "",
         "license-key-local": {
@@ -4012,7 +4031,7 @@
         "tvg-id": "646",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23855-jg9jt83c-v2\/imageContent-23855-jg9jt83c-m8.png",
-        "group-title": "TSneh Knowledge",
+        "group-title": "Knowledge",
         "channel-name": "DD Gyan Darshan",
         "license-key": "",
         "license-key-local": {
@@ -4031,7 +4050,7 @@
         "tvg-id": "480",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11858-j9l1v6k8-v3\/imageContent-11858-j9l1v6k8-m4.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "TLC HD",
         "license-key": "",
         "license-key-local": {
@@ -4050,7 +4069,7 @@
         "tvg-id": "135",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-453-j5jtup5s-v2\/imageContent-453-j5jtup5s-m2.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "TLC",
         "license-key": "",
         "license-key-local": {
@@ -4069,7 +4088,7 @@
         "tvg-id": "136",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-42020-jxb7qjw8-v1\/imageContent-42020-jxb7qjw8-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "GOOD TiMES",
         "license-key": "",
         "license-key-local": {
@@ -4088,7 +4107,7 @@
         "tvg-id": "228",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-967-j5mr8tw8-v1\/imageContent-967-j5mr8tw8-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Discovery Turbo",
         "license-key": "",
         "license-key-local": {
@@ -4107,7 +4126,7 @@
         "tvg-id": "484",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11862-j9l2p61c-v1\/imageContent-11862-j9l2p61c-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Travelxp HD",
         "license-key": "",
         "license-key-local": {
@@ -4126,7 +4145,7 @@
         "tvg-id": "55",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-157-j5frd4e8-v1\/imageContent-157-j5frd4e8-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Travelxp",
         "license-key": "",
         "license-key-local": {
@@ -4145,7 +4164,7 @@
         "tvg-id": "117",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-384-j5jpj9hc-v1\/imageContent-384-j5jpj9hc-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Food Food",
         "license-key": "",
         "license-key-local": {
@@ -4164,7 +4183,7 @@
         "tvg-id": "227",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-959-j5mipsnk-v1\/imageContent-959-j5mipsnk-m1.png",
-        "group-title": "TSneh Lifestyle",
+        "group-title": "Lifestyle",
         "channel-name": "Fashion TV",
         "license-key": "",
         "license-key-local": {
@@ -4183,7 +4202,7 @@
         "tvg-id": "735",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44321-jz2zb8pk-v3\/imageContent-44321-jz2zb8pk-m3.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Tata Play Ibaadat",
         "license-key": "",
         "license-key-local": {
@@ -4202,7 +4221,7 @@
         "tvg-id": "406",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11610-j9jzore8-v2\/imageContent-11610-j9jzore8-m2.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "MTV HD",
         "license-key": "",
         "license-key-local": {
@@ -4221,7 +4240,7 @@
         "tvg-id": "103",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-330-j5jl5on4-v2\/imageContent-330-j5jl5on4-m2.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "MTV",
         "license-key": "",
         "license-key-local": {
@@ -4240,7 +4259,7 @@
         "tvg-id": "139",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-468-j5jwdbi8-v1\/imageContent-468-j5jwdbi8-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "9XM",
         "license-key": "",
         "license-key-local": {
@@ -4259,7 +4278,7 @@
         "tvg-id": "96",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24696-jgrq09a8-v1\/imageContent-24696-jgrq09a8-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "Zoom",
         "license-key": "",
         "license-key-local": {
@@ -4278,7 +4297,7 @@
         "tvg-id": "224",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-946-j5mip6a0-v1\/imageContent-946-j5mip6a0-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "E24",
         "license-key": "",
         "license-key-local": {
@@ -4297,7 +4316,7 @@
         "tvg-id": "405",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11607-j9jznhvc-v1\/imageContent-11607-j9jznhvc-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "MTV Beats HD",
         "license-key": "",
         "license-key-local": {
@@ -4316,7 +4335,7 @@
         "tvg-id": "236",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1018-j5nhzme0-v1\/imageContent-1018-j5nhzme0-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "MTV Beats",
         "license-key": "",
         "license-key-local": {
@@ -4335,7 +4354,7 @@
         "tvg-id": "9",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24-j5fb33y0-v1\/imageContent-24-j5fb33y0-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "B4U Music",
         "license-key": "",
         "license-key-local": {
@@ -4354,7 +4373,7 @@
         "tvg-id": "17",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57-j5fdr2f4-v1\/imageContent-57-j5fdr2f4-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "Mastiii",
         "license-key": "",
         "license-key-local": {
@@ -4373,7 +4392,7 @@
         "tvg-id": "517",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11993-j9luua9c-v1\/imageContent-11993-j9luua9c-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "Zing",
         "license-key": "",
         "license-key-local": {
@@ -4392,7 +4411,7 @@
         "tvg-id": "39",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-102-j5fl5pyg-v1\/imageContent-102-j5fl5pyg-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "9X Jalwa",
         "license-key": "",
         "license-key-local": {
@@ -4411,7 +4430,7 @@
         "tvg-id": "733",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-44228-jyzbtse0-v1\/imageContent-44228-jyzbtse0-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "Showbox",
         "license-key": "",
         "license-key-local": {
@@ -4430,7 +4449,7 @@
         "tvg-id": "539",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12030-j9nyctjk-v3\/imageContent-12030-j9nyctjk-m5.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "VH1 HD",
         "license-key": "",
         "license-key-local": {
@@ -4449,7 +4468,7 @@
         "tvg-id": "38",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-105-j5fl5t1k-v1\/imageContent-105-j5fl5t1k-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Aastha",
         "license-key": "",
         "license-key-local": {
@@ -4468,7 +4487,7 @@
         "tvg-id": "43",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-123-j5fnf1fc-v1\/imageContent-123-j5fnf1fc-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Sanskar",
         "license-key": "",
         "license-key-local": {
@@ -4487,7 +4506,7 @@
         "tvg-id": "446",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11725-j9kw030w-v4\/imageContent-11725-j9kw030w-m4.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Paras Gold One",
         "license-key": "",
         "license-key-local": {
@@ -4506,7 +4525,7 @@
         "tvg-id": "397",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11590-j9jyx4so-v1\/imageContent-11590-j9jyx4so-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "MH One Shraddha",
         "license-key": "",
         "license-key-local": {
@@ -4525,7 +4544,7 @@
         "tvg-id": "447",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11746-j9kwfmfs-v2\/imageContent-11746-j9kwfmfs-m2.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Sadhna TV",
         "license-key": "",
         "license-key-local": {
@@ -4544,7 +4563,7 @@
         "tvg-id": "385",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11547-j9ju62m8-v3\/imageContent-11547-j9ju62m8-m3.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Sharnam TV",
         "license-key": "",
         "license-key-local": {
@@ -4563,7 +4582,7 @@
         "tvg-id": "420",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11664-j9kcouh4-v1\/imageContent-11664-j9kcouh4-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Peace of Mind",
         "license-key": "",
         "license-key-local": {
@@ -4582,7 +4601,7 @@
         "tvg-id": "373",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11507-j9jto5k0-v1\/imageContent-11507-j9jto5k0-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Jinvani Channel",
         "license-key": "",
         "license-key-local": {
@@ -4601,7 +4620,7 @@
         "tvg-id": "288",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/ARIH_Thumbnail-v2\/ARIH_Thumbnail.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Dharma Sandesh",
         "license-key": "",
         "license-key-local": {
@@ -4620,7 +4639,7 @@
         "tvg-id": "594",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12196-j9q3ez54-v1\/imageContent-12196-j9q3ez54-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Ishwar TV",
         "license-key": "",
         "license-key-local": {
@@ -4639,7 +4658,7 @@
         "tvg-id": "456",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11767-j9kwretk-v1\/imageContent-11767-j9kwretk-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Satsang TV",
         "license-key": "",
         "license-key-local": {
@@ -4658,7 +4677,7 @@
         "tvg-id": "458",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11775-j9kwuk8w-v1\/imageContent-11775-j9kwuk8w-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Shubh TV",
         "license-key": "",
         "license-key-local": {
@@ -4677,7 +4696,7 @@
         "tvg-id": "283",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11212-j9icd8jc-v1\/imageContent-11212-j9icd8jc-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Aastha Bhajan",
         "license-key": "",
         "license-key-local": {
@@ -4696,7 +4715,7 @@
         "tvg-id": "500",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11903-j9l4wxy8-v1\/imageContent-11903-j9l4wxy8-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Vedic",
         "license-key": "",
         "license-key-local": {
@@ -4715,7 +4734,7 @@
         "tvg-id": "728",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43103-jxzlrb0o-v2\/imageContent-43103-jxzlrb0o-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Subharti TV",
         "license-key": "",
         "license-key-local": {
@@ -4734,7 +4753,7 @@
         "tvg-id": "775",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11408-j9jqmlvs-v6\/imageContent-11408-j9jqmlvs-m4.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "DIVYA",
         "license-key": "",
         "license-key-local": {
@@ -4753,7 +4772,7 @@
         "tvg-id": "935",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65100-kspm2814-v1\/imageContent-65100-kspm2814-m2.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Awakening",
         "license-key": "",
         "license-key-local": {
@@ -4772,7 +4791,7 @@
         "tvg-id": "911",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62610-koxujv2g-v2\/imageContent-62610-koxujv2g-m3.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Santwani",
         "license-key": "",
         "license-key-local": {
@@ -4791,7 +4810,7 @@
         "tvg-id": "969",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69024-kzo68h3c-v1\/imageContent-69024-kzo68h3c-m1.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Aadinath TV",
         "license-key": "",
         "license-key-local": {
@@ -4810,7 +4829,7 @@
         "tvg-id": "12",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-42-j5fc9b8g-v3\/imageContent-42-j5fc9b8g-m3.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Zee Ganga",
         "license-key": "",
         "license-key-local": {
@@ -4829,7 +4848,7 @@
         "tvg-id": "970",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69027-kzo69re0-v1\/imageContent-69027-kzo69re0-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "MH One Dil Se",
         "license-key": "",
         "license-key-local": {
@@ -4848,7 +4867,7 @@
         "tvg-id": "814",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-52853-k982u9ts-v1\/imageContent-52853-k982u9ts-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Zee Biskope",
         "license-key": "",
         "license-key-local": {
@@ -4867,7 +4886,7 @@
         "tvg-id": "830",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55553-kdzetu0o-v3\/imageContent-55553-kdzetu0o-m8.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Filamchi Bhojpuri",
         "license-key": "",
         "license-key-local": {
@@ -4886,7 +4905,7 @@
         "tvg-id": "181",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-768-j5m31cfs-v1\/imageContent-768-j5m31cfs-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Bhojpuri Cinema",
         "license-key": "",
         "license-key-local": {
@@ -4905,7 +4924,7 @@
         "tvg-id": "431",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/OSMOV_Thumbnail-v3\/OSMOV_Thumbnail.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Oscar Movies Bhojpuri.",
         "license-key": "",
         "license-key-local": {
@@ -4924,7 +4943,7 @@
         "tvg-id": "729",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-43109-jxzlyrjc-v1\/imageContent-43109-jxzlyrjc-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "B4U Bhojpuri",
         "license-key": "",
         "license-key-local": {
@@ -4943,7 +4962,7 @@
         "tvg-id": "899",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62150-knicubns-v2\/imageContent-62150-knicubns-m2.png",
-        "group-title": "TSneh Movies",
+        "group-title": "Movies",
         "channel-name": "Pasand",
         "license-key": "",
         "license-key-local": {
@@ -4962,7 +4981,7 @@
         "tvg-id": "79",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23223-jeyhnzfs-v1\/imageContent-23223-jeyhnzfs-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "News18 Uttar Pradesh Uttarakhand",
         "license-key": "",
         "license-key-local": {
@@ -4981,7 +5000,7 @@
         "tvg-id": "838",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-56320-kf6aheeo-v2\/imageContent-56320-kf6aheeo-m3.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Kashish News",
         "license-key": "",
         "license-key-local": {
@@ -5000,7 +5019,7 @@
         "tvg-id": "637",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21315-je85i72w-v1\/imageContent-21315-je85i72w-m5.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Zee Uttar Pradesh Uttarakhand",
         "license-key": "",
         "license-key-local": {
@@ -5019,7 +5038,7 @@
         "tvg-id": "166",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23206-jey39grs-v1\/imageContent-23206-jey39grs-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "News18 Bihar Jharkhand",
         "license-key": "",
         "license-key-local": {
@@ -5038,7 +5057,7 @@
         "tvg-id": "20",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11140-j96syfuo-v1\/imageContent-11140-j96syfuo-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Zee Bihar Jharkhand",
         "license-key": "",
         "license-key-local": {
@@ -5057,7 +5076,7 @@
         "tvg-id": "1034",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-74233-la71l5eg-v4\/imageContent-74233-la71l5eg-m5.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "News State Bihar Jharkhand",
         "license-key": "",
         "license-key-local": {
@@ -5076,7 +5095,7 @@
         "tvg-id": "30",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9007-j7ss7x80-v1\/imageContent-9007-j7ss7x80-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "India News UP UK",
         "license-key": "",
         "license-key-local": {
@@ -5095,7 +5114,7 @@
         "tvg-id": "613",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12252-j9qrkgu8-v3\/imageContent-12252-j9qrkgu8-m2.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News State UP Uttarakhand",
         "license-key": "",
         "license-key-local": {
@@ -5114,7 +5133,7 @@
         "tvg-id": "827",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55124-kd89b0f4-v1\/imageContent-55124-kd89b0f4-m4.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Sadhna Plus News",
         "license-key": "",
         "license-key-local": {
@@ -5133,7 +5152,7 @@
         "tvg-id": "973",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69315-l02nqy9k-v1\/imageContent-69315-l02nqy9k-m6.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Sahara Samay UP-UKD",
         "license-key": "",
         "license-key-local": {
@@ -5152,7 +5171,7 @@
         "tvg-id": "316",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11320-j9jlusp4-v1\/imageContent-11320-j9jlusp4-m1.png",
-        "group-title": "TSneh Entertainment",
+        "group-title": "Entertainment",
         "channel-name": "DD Bharati",
         "license-key": "",
         "license-key-local": {
@@ -5171,7 +5190,7 @@
         "tvg-id": "339",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11389-j9jq2ybk-v1\/imageContent-11389-j9jq2ybk-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "DD Uttar Pradesh",
         "license-key": "",
         "license-key-local": {
@@ -5190,7 +5209,7 @@
         "tvg-id": "317",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11321-j9jlxaz4-v1\/imageContent-11321-j9jlxaz4-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "DD Bihar",
         "license-key": "",
         "license-key-local": {
@@ -5209,7 +5228,7 @@
         "tvg-id": "203",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23266-jez523so-v1\/imageContent-23266-jez523so-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "News18 Madhya Pradesh Chhattisgarh",
         "license-key": "",
         "license-key-local": {
@@ -5228,7 +5247,7 @@
         "tvg-id": "512",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11981-j9lunvjs-v1\/imageContent-11981-j9lunvjs-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Zee Madhya Pradesh Chattisgarh",
         "license-key": "",
         "license-key-local": {
@@ -5247,7 +5266,7 @@
         "tvg-id": "27",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-78-j5fikkk8-v1\/imageContent-78-j5fikkk8-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "IBC 24",
         "license-key": "",
         "license-key-local": {
@@ -5266,7 +5285,7 @@
         "tvg-id": "652",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25494-ji1a6ym0-v2\/imageContent-25494-ji1a6ym0-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Bansal News",
         "license-key": "",
         "license-key-local": {
@@ -5285,7 +5304,7 @@
         "tvg-id": "698",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35622-jrr5mvig-v1\/imageContent-35622-jrr5mvig-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "INH 24X7",
         "license-key": "",
         "license-key-local": {
@@ -5304,7 +5323,7 @@
         "tvg-id": "222",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8971-j7rffd40-v1\/imageContent-8971-j7rffd40-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "India News MP CG",
         "license-key": "",
         "license-key-local": {
@@ -5323,7 +5342,7 @@
         "tvg-id": "643",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-31191-jldnwhhs-v1\/imageContent-31191-jldnwhhs-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News State MP CG",
         "license-key": "",
         "license-key-local": {
@@ -5342,7 +5361,7 @@
         "tvg-id": "577",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12143-j9p7vx9c-v1\/imageContent-12143-j9p7vx9c-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Swaraj Express SMBC",
         "license-key": "",
         "license-key-local": {
@@ -5361,7 +5380,7 @@
         "tvg-id": "829",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-55112-kd88u9so-v1\/imageContent-55112-kd88u9so-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Sadhna News MP CG",
         "license-key": "",
         "license-key-local": {
@@ -5380,7 +5399,7 @@
         "tvg-id": "902",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62181-knrp5974-v1\/imageContent-62181-knrp5974-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "News 24 Madhyapradesh Chattisgarh",
         "license-key": "",
         "license-key-local": {
@@ -5399,7 +5418,7 @@
         "tvg-id": "937",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-65108-ksr7d028-v1\/imageContent-65108-ksr7d028-m2.png",
-        "group-title": "TSneh Spiritual",
+        "group-title": "Spiritual",
         "channel-name": "Anaadi TV",
         "license-key": "",
         "license-key-local": {
@@ -5418,7 +5437,7 @@
         "tvg-id": "993",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71503-l4su2elk-v2\/imageContent-71503-l4su2elk-m7.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "News Hour",
         "license-key": "",
         "license-key-local": {
@@ -5437,7 +5456,7 @@
         "tvg-id": "1009",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-72340-l6nkcw74-v1\/imageContent-72340-l6nkcw74-m1.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "TV27 News",
         "license-key": "",
         "license-key-local": {
@@ -5456,7 +5475,7 @@
         "tvg-id": "330",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11351-j9jpmdvc-v1\/imageContent-11351-j9jpmdvc-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "DD Madhya Pradesh",
         "license-key": "",
         "license-key-local": {
@@ -5475,7 +5494,7 @@
         "tvg-id": "205",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-23226-jeyiac80-v1\/imageContent-23226-jeyiac80-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "News18 Rajasthan",
         "license-key": "",
         "license-key-local": {
@@ -5494,7 +5513,7 @@
         "tvg-id": "583",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12158-j9pd883k-v1\/imageContent-12158-j9pd883k-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Zee Rajasthan News",
         "license-key": "",
         "license-key-local": {
@@ -5513,7 +5532,7 @@
         "tvg-id": "650",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-25048-jhir0kko-v1\/imageContent-25048-jhir0kko-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "First India Rajasthan",
         "license-key": "",
         "license-key-local": {
@@ -5532,7 +5551,7 @@
         "tvg-id": "14",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9012-j7ssufeo-v1\/imageContent-9012-j7ssufeo-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "India News Rajasthan",
         "license-key": "",
         "license-key-local": {
@@ -5551,7 +5570,7 @@
         "tvg-id": "5",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-10-j5f7xqxc-v1\/imageContent-10-j5f7xqxc-m1.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Patrika TV Rajasthan",
         "license-key": "",
         "license-key-local": {
@@ -5570,7 +5589,7 @@
         "tvg-id": "870",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-58492-kixkb2ug-v1\/imageContent-58492-kixkb2ug-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Jan TV",
         "license-key": "",
         "license-key-local": {
@@ -5589,7 +5608,7 @@
         "tvg-id": "1075",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/SACHB_Thumbnail-v2\/SACHB_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Sach Bedhadak",
         "license-key": "",
         "license-key-local": {
@@ -5608,7 +5627,7 @@
         "tvg-id": "1074",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TV24N_Thumbnail-v2\/TV24N_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "TV 24",
         "license-key": "",
         "license-key-local": {
@@ -5627,7 +5646,7 @@
         "tvg-id": "332",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11375-j9jpws3k-v1\/imageContent-11375-j9jpws3k-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "DD Rajasthan",
         "license-key": "",
         "license-key-local": {
@@ -5646,7 +5665,7 @@
         "tvg-id": "354",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11426-j9jqror4-v3\/imageContent-11426-j9jqror4-m3.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "News18 Jammu Kashmir Ladakh Himachal",
         "license-key": "",
         "license-key-local": {
@@ -5665,7 +5684,7 @@
         "tvg-id": "161",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-7906-j7684flk-v1\/imageContent-7906-j7684flk-m1.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Channel WIN",
         "license-key": "",
         "license-key-local": {
@@ -5684,7 +5703,7 @@
         "tvg-id": "518",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11984-j9lup2rc-v2\/imageContent-11984-j9lup2rc-m3.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Zee Salaam",
         "license-key": "",
         "license-key-local": {
@@ -5703,7 +5722,7 @@
         "tvg-id": "365",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11455-j9jqz61k-v2\/imageContent-11455-j9jqz61k-m4.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Gulistan News",
         "license-key": "",
         "license-key-local": {
@@ -5722,7 +5741,7 @@
         "tvg-id": "338",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11384-j9jq29mo-v2\/imageContent-11384-j9jq29mo-m3.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "DD Urdu",
         "license-key": "",
         "license-key-local": {
@@ -5741,7 +5760,7 @@
         "tvg-id": "308",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-16764-jcix3xpc-v2\/imageContent-16764-jcix3xpc-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Colors Marathi HD",
         "license-key": "",
         "license-key-local": {
@@ -5760,7 +5779,7 @@
         "tvg-id": "134",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-450-j5jtumug-v3\/imageContent-450-j5jtumug-m3.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Colors Marathi",
         "license-key": "",
         "license-key-local": {
@@ -5779,7 +5798,7 @@
         "tvg-id": "501",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11930-j9l5hv1c-v1\/imageContent-11930-j9l5hv1c-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Zee Marathi HD",
         "license-key": "",
         "license-key-local": {
@@ -5798,7 +5817,7 @@
         "tvg-id": "251",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8846-j7pq3jmo-v2\/imageContent-8846-j7pq3jmo-m3.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Zee Marathi",
         "license-key": "",
         "license-key-local": {
@@ -5817,7 +5836,7 @@
         "tvg-id": "469",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11807-j9kyzle8-v1\/imageContent-11807-j9kyzle8-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Star Pravah HD",
         "license-key": "",
         "license-key-local": {
@@ -5836,7 +5855,7 @@
         "tvg-id": "248",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11136-j96p4r28-v1\/imageContent-11136-j96p4r28-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Zee YUVA",
         "license-key": "",
         "license-key-local": {
@@ -5855,7 +5874,7 @@
         "tvg-id": "658",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-30959-jky1nic8-v2\/imageContent-30959-jky1nic8-m3.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Sony Marathi",
         "license-key": "",
         "license-key-local": {
@@ -5874,7 +5893,7 @@
         "tvg-id": "999",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSMAR_Thumbnail-v10\/TONSMAR_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Tata Play Toons+",
         "license-key": "",
         "license-key-local": {
@@ -5893,7 +5912,7 @@
         "tvg-id": "515",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11987-j9lura8g-v1\/imageContent-11987-j9lura8g-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Zee Talkies HD",
         "license-key": "",
         "license-key-local": {
@@ -5912,7 +5931,7 @@
         "tvg-id": "249",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8842-j7pp0me8-v2\/imageContent-8842-j7pp0me8-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Zee Talkies",
         "license-key": "",
         "license-key-local": {
@@ -5931,7 +5950,7 @@
         "tvg-id": "192",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-801-j5m7jg34-v2\/imageContent-801-j5m7jg34-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Fakt Marathi",
         "license-key": "",
         "license-key-local": {
@@ -5950,7 +5969,7 @@
         "tvg-id": "800",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-49025-k5lxf84o-v2\/imageContent-49025-k5lxf84o-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Shemaroo MarathiBana",
         "license-key": "",
         "license-key-local": {
@@ -5969,7 +5988,7 @@
         "tvg-id": "155",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-542-j5kwwml4-v2\/imageContent-542-j5kwwml4-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "ABP Majha",
         "license-key": "",
         "license-key-local": {
@@ -5988,7 +6007,7 @@
         "tvg-id": "140",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12140-j9p7vga8-v1\/imageContent-12140-j9p7vga8-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "News18 Lokmat",
         "license-key": "",
         "license-key-local": {
@@ -6007,7 +6026,7 @@
         "tvg-id": "261",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11156-j96xbrfk-v1\/imageContent-11156-j96xbrfk-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Zee 24 Taas",
         "license-key": "",
         "license-key-local": {
@@ -6026,7 +6045,7 @@
         "tvg-id": "546",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12056-j9o5hia8-v1\/imageContent-12056-j9o5hia8-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Saam TV",
         "license-key": "",
         "license-key-local": {
@@ -6045,7 +6064,7 @@
         "tvg-id": "233",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-1014-j5ngcjug-v2\/imageContent-1014-j5ngcjug-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Jai Maharashtra",
         "license-key": "",
         "license-key-local": {
@@ -6064,7 +6083,7 @@
         "tvg-id": "97",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-315-j5jjsht4-v2\/imageContent-315-j5jjsht4-m2.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "TV9 Marathi",
         "license-key": "",
         "license-key-local": {
@@ -6083,7 +6102,7 @@
         "tvg-id": "826",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-54569-kcviihig-v3\/imageContent-54569-kcviihig-m3.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Lokshahi",
         "license-key": "",
         "license-key-local": {
@@ -6102,7 +6121,7 @@
         "tvg-id": "1038",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NSMG_Thumbnail-v2\/NSMG_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "News State Maharashtra Goa",
         "license-key": "",
         "license-key-local": {
@@ -6121,7 +6140,7 @@
         "tvg-id": "1102",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PDNEWS_Thumbnail-v2\/PDNEWS_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Pudhari News",
         "license-key": "",
         "license-key-local": {
@@ -6140,7 +6159,7 @@
         "tvg-id": "336",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11378-j9jq0f9s-v1\/imageContent-11378-j9jq0f9s-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "DD Sahyadri",
         "license-key": "",
         "license-key-local": {
@@ -6159,7 +6178,7 @@
         "tvg-id": "217",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-870-j5mb6j80-v1\/imageContent-870-j5mb6j80-m1.png",
-        "group-title": "TSneh Regional Marathi",
+        "group-title": "Regional Marathi",
         "channel-name": "Sangeet Marathi",
         "license-key": "",
         "license-key-local": {
@@ -6178,7 +6197,7 @@
         "tvg-id": "26",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-75-j5fikj0o-v1\/imageContent-75-j5fikj0o-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Colors Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6197,7 +6216,7 @@
         "tvg-id": "522",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11970-j9luk5ag-v1\/imageContent-11970-j9luk5ag-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Zee Bangla HD",
         "license-key": "",
         "license-key-local": {
@@ -6216,7 +6235,7 @@
         "tvg-id": "34",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-94-j5fjveio-v3\/imageContent-94-j5fjveio-m2.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "SONY AATH",
         "license-key": "",
         "license-key-local": {
@@ -6235,7 +6254,7 @@
         "tvg-id": "995",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/TONSBEN_Thumbnail-v5\/TONSBEN_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Tata Play Toons+",
         "license-key": "",
         "license-key-local": {
@@ -6254,7 +6273,7 @@
         "tvg-id": "129",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-267-j5j8x17s-v1\/imageContent-267-j5j8x17s-m2.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Aakaash Aath",
         "license-key": "",
         "license-key-local": {
@@ -6273,7 +6292,7 @@
         "tvg-id": "3",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9-j5f6oezc-v1\/imageContent-9-j5f6oezc-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Ruposhi Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6292,7 +6311,7 @@
         "tvg-id": "788",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48494-k3zd1a80-v1\/imageContent-48494-k3zd1a80-m4.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Enterr10 Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6311,7 +6330,7 @@
         "tvg-id": "537",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11514-j9jtp5tk-v1\/imageContent-11514-j9jtp5tk-m2.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Jalsha Movies HD",
         "license-key": "",
         "license-key-local": {
@@ -6330,7 +6349,7 @@
         "tvg-id": "254",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11009-j8xbk7js-v1\/imageContent-11009-j8xbk7js-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Zee Bangla Cinema",
         "license-key": "",
         "license-key-local": {
@@ -6349,7 +6368,7 @@
         "tvg-id": "896",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/CLRBANG_Thumbnail-v2\/CLRBANG_Thumbnail.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Colors Bangla Cinema",
         "license-key": "",
         "license-key-local": {
@@ -6368,7 +6387,7 @@
         "tvg-id": "379",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-27017-jjo92wyg-v1\/imageContent-27017-jjo92wyg-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Khushboo Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6387,7 +6406,7 @@
         "tvg-id": "102",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-321-j5jl5g5k-v2\/imageContent-321-j5jl5g5k-m2.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "ABP Ananda",
         "license-key": "",
         "license-key-local": {
@@ -6406,7 +6425,7 @@
         "tvg-id": "258",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-9031-j7u3nz6w-v1\/imageContent-9031-j7u3nz6w-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Zee 24 Ghanta",
         "license-key": "",
         "license-key-local": {
@@ -6425,7 +6444,7 @@
         "tvg-id": "381",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11533-j9jtxqgo-v1\/imageContent-11533-j9jtxqgo-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Kolkata TV",
         "license-key": "",
         "license-key-local": {
@@ -6444,7 +6463,7 @@
         "tvg-id": "23",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-22186-jenuxy6g-v2\/imageContent-22186-jenuxy6g-m5.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "News18 Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6463,7 +6482,7 @@
         "tvg-id": "873",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-59401-kjudpa1c-v2\/imageContent-59401-kjudpa1c-m3.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "TV9 Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6482,7 +6501,7 @@
         "tvg-id": "890",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-61251-klylf4u0-v2\/imageContent-61251-klylf4u0-m9.png",
-        "group-title": "TSneh News",
+        "group-title": "News",
         "channel-name": "Republic Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6501,7 +6520,7 @@
         "tvg-id": "207",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-852-j5m9xe80-v1\/imageContent-852-j5m9xe80-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "News Time Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6520,7 +6539,7 @@
         "tvg-id": "311",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11299-j9j61p1k-v1\/imageContent-11299-j9j61p1k-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "CTVN AKD Plus",
         "license-key": "",
         "license-key-local": {
@@ -6539,7 +6558,7 @@
         "tvg-id": "648",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-24685-jgrl9bqg-v1\/imageContent-24685-jgrl9bqg-m2.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Calcutta News",
         "license-key": "",
         "license-key-local": {
@@ -6558,7 +6577,7 @@
         "tvg-id": "1103",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NKTVBAN_Thumbnail-v2\/NKTVBAN_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "NKTV BANGLA",
         "license-key": "",
         "license-key-local": {
@@ -6577,7 +6596,7 @@
         "tvg-id": "314",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11314-j9j8kcxk-v1\/imageContent-11314-j9j8kcxk-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "DD Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6596,7 +6615,7 @@
         "tvg-id": "215",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-864-j5mava4o-v1\/imageContent-864-j5mava4o-m1.png",
-        "group-title": "TSneh Regional Bengali",
+        "group-title": "Regional Bengali",
         "channel-name": "Sangeet Bangla",
         "license-key": "",
         "license-key-local": {
@@ -6615,7 +6634,7 @@
         "tvg-id": "635",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-21304-je859a3c-v1\/imageContent-21304-je859a3c-m1.png",
-        "group-title": "TSneh Regional Telugu",
+        "group-title": "Regional Telugu",
         "channel-name": "Zee Telugu HD",
         "license-key": "",
         "license-key-local": {
@@ -6634,7 +6653,7 @@
         "tvg-id": "250",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-8845-j7ppmm28-v3\/imageContent-8845-j7ppmm28-m7.png",
-        "group-title": "TSneh Regional Telugu",
+        "group-title": "Regional Telugu",
         "channel-name": "Zee Telugu",
         "license-key": "",
         "license-key-local": {
@@ -6653,7 +6672,7 @@
         "tvg-id": "355",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11444-j9jqx6a8-v1\/imageContent-11444-j9jqx6a8-m1.png",
-        "group-title": "TSneh Regional Telugu",
+        "group-title": "Regional Telugu",
         "channel-name": "Gemini TV HD",
         "license-key": "",
         "license-key-local": {
@@ -6672,7 +6691,7 @@
         "tvg-id": "793",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57445-kg7p5yk8-v2\/imageContent-57445-kg7p5yk8-m3.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "Living India News",
         "license-key": "",
         "license-key-local": {
@@ -6691,7 +6710,7 @@
         "tvg-id": "972",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69238-kzt9ig3k-v1\/imageContent-69238-kzt9ig3k-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "Khabar Fast",
         "license-key": "",
         "license-key-local": {
@@ -6710,7 +6729,7 @@
         "tvg-id": "262",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35649-jrz9mhq0-v2\/imageContent-35649-jrz9mhq0-m2.png",
-        "group-title": "TSneh Regional Odia",
+        "group-title": "Regional Odia",
         "channel-name": "Zee Delhi NCR Haryana",
         "license-key": "",
         "license-key-local": {
@@ -6729,7 +6748,7 @@
         "tvg-id": "989",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71064-l427mi60-v2\/imageContent-71064-l427mi60-m3.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "STV Haryana News",
         "license-key": "",
         "license-key-local": {
@@ -6748,7 +6767,7 @@
         "tvg-id": "1078",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DAILYP_Thumbnail-v3\/DAILYP_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "Daily Post Punjab Haryana Himachal",
         "license-key": "",
         "license-key-local": {
@@ -6767,7 +6786,7 @@
         "tvg-id": "1085",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/WTVPunjabi_Thumbnail-v1\/WTVPunjabi_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "WPN World Punjabi TV",
         "license-key": "",
         "license-key-local": {
@@ -6786,7 +6805,7 @@
         "tvg-id": "335",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11374-j9jpwgiw-v1\/imageContent-11374-j9jpwgiw-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "DD Punjabi",
         "license-key": "",
         "license-key-local": {
@@ -6805,7 +6824,7 @@
         "tvg-id": "92",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-297-j5ji8qv4-v1\/imageContent-297-j5ji8qv4-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "PTC Chak De",
         "license-key": "",
         "license-key-local": {
@@ -6824,7 +6843,7 @@
         "tvg-id": "922",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-63498-kqq89g5k-v2\/imageContent-63498-kqq89g5k-m3.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "PTC Music",
         "license-key": "",
         "license-key-local": {
@@ -6843,7 +6862,7 @@
         "tvg-id": "936",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PUNHTS_Thumbnail-v1\/PUNHTS_Thumbnail.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "Punjabi Hits",
         "license-key": "",
         "license-key-local": {
@@ -6862,7 +6881,7 @@
         "tvg-id": "193",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-792-j5m75dww-v1\/imageContent-792-j5m75dww-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "Chardikla Time TV",
         "license-key": "",
         "license-key-local": {
@@ -6881,7 +6900,7 @@
         "tvg-id": "773",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47242-k1vmve74-v1\/imageContent-47242-k1vmve74-m2.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "PTC Simran",
         "license-key": "",
         "license-key-local": {
@@ -6900,7 +6919,7 @@
         "tvg-id": "567",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12106-j9ooxpug-v2\/imageContent-12106-j9ooxpug-m2.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "Nepal 1",
         "license-key": "",
         "license-key-local": {
@@ -6919,7 +6938,7 @@
         "tvg-id": "214",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-860-j5mao56o-v1\/imageContent-860-j5mao56o-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "Rengoni TV",
         "license-key": "",
         "license-key-local": {
@@ -6938,7 +6957,7 @@
         "tvg-id": "368",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11485-j9jsysqw-v1\/imageContent-11485-j9jsysqw-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "Indradhanu",
         "license-key": "",
         "license-key-local": {
@@ -6957,7 +6976,7 @@
         "tvg-id": "353",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11411-j9jqocds-v1\/imageContent-11411-j9jqocds-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "DY 365",
         "license-key": "",
         "license-key-local": {
@@ -6976,7 +6995,7 @@
         "tvg-id": "68",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12390-jai3fgy0-v1\/imageContent-12390-jai3fgy0-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "News18 Assam North East",
         "license-key": "",
         "license-key-local": {
@@ -6995,7 +7014,7 @@
         "tvg-id": "226",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-956-j5mipkxs-v1\/imageContent-956-j5mipkxs-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "NEWS LIVE",
         "license-key": "",
         "license-key-local": {
@@ -7014,7 +7033,7 @@
         "tvg-id": "221",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-879-j5mdmlqw-v1\/imageContent-879-j5mdmlqw-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "Protidin Time",
         "license-key": "",
         "license-key-local": {
@@ -7033,7 +7052,7 @@
         "tvg-id": "423",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11673-j9kfe73s-v1\/imageContent-11673-j9kfe73s-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "Prag News",
         "license-key": "",
         "license-key-local": {
@@ -7052,7 +7071,7 @@
         "tvg-id": "417",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11644-j9k1gjow-v1\/imageContent-11644-j9k1gjow-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "North East Live",
         "license-key": "",
         "license-key-local": {
@@ -7071,7 +7090,7 @@
         "tvg-id": "894",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NKTVPLUS_Thumbnail-v2\/NKTVPLUS_Thumbnail.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "NKTV PLUS",
         "license-key": "",
         "license-key-local": {
@@ -7090,7 +7109,7 @@
         "tvg-id": "977",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69824-l1dfgvcg-v1\/imageContent-69824-l1dfgvcg-m3.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "ND24-Newsdaily.in",
         "license-key": "",
         "license-key-local": {
@@ -7109,7 +7128,7 @@
         "tvg-id": "1076",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NBNEWS_Thumbnail-v2\/NBNEWS_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "NB News",
         "license-key": "",
         "license-key-local": {
@@ -7128,7 +7147,7 @@
         "tvg-id": "331",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11363-j9jprc40-v1\/imageContent-11363-j9jprc40-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "DD North East",
         "license-key": "",
         "license-key-local": {
@@ -7147,7 +7166,7 @@
         "tvg-id": "325",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11345-j9jpidkw-v1\/imageContent-11345-j9jpidkw-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "DD Kashir",
         "license-key": "",
         "license-key-local": {
@@ -7166,7 +7185,7 @@
         "tvg-id": "449",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11728-j9kw1zp4-v1\/imageContent-11728-j9kw1zp4-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "Ramdhenu",
         "license-key": "",
         "license-key-local": {
@@ -7185,7 +7204,7 @@
         "tvg-id": "991",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71497-l4stx05k-v3\/imageContent-71497-l4stx05k-m5.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "DD Meghalaya",
         "license-key": "",
         "license-key-local": {
@@ -7204,7 +7223,7 @@
         "tvg-id": "790",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48807-k4m7ud0o-v2\/imageContent-48807-k4m7ud0o-m2.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "Ek Onkar",
         "license-key": "",
         "license-key-local": {
@@ -7223,7 +7242,7 @@
         "tvg-id": "791",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48804-k4m7nz2w-v1\/imageContent-48804-k4m7nz2w-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "Fateh TV",
         "license-key": "",
         "license-key-local": {
@@ -7242,7 +7261,7 @@
         "tvg-id": "912",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62613-koxw351c-v1\/imageContent-62613-koxw351c-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "Haryana Beats",
         "license-key": "",
         "license-key-local": {
@@ -7261,7 +7280,7 @@
         "tvg-id": "793",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-57445-kg7p5yk8-v2\/imageContent-57445-kg7p5yk8-m3.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7280,7 +7299,7 @@
         "tvg-id": "972",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69238-kzt9ig3k-v1\/imageContent-69238-kzt9ig3k-m2.png",
-        "group-title": "TSneh Regional Hindi",
+        "group-title": "Regional Hindi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7299,7 +7318,7 @@
         "tvg-id": "262",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-35649-jrz9mhq0-v2\/imageContent-35649-jrz9mhq0-m2.png",
-        "group-title": "TSneh Regional Odia",
+        "group-title": "Regional Odia",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7318,7 +7337,7 @@
         "tvg-id": "989",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71064-l427mi60-v2\/imageContent-71064-l427mi60-m3.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7337,7 +7356,7 @@
         "tvg-id": "1078",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/DAILYP_Thumbnail-v3\/DAILYP_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7356,7 +7375,7 @@
         "tvg-id": "1085",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/WTVPunjabi_Thumbnail-v1\/WTVPunjabi_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7375,7 +7394,7 @@
         "tvg-id": "335",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11374-j9jpwgiw-v1\/imageContent-11374-j9jpwgiw-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7394,7 +7413,7 @@
         "tvg-id": "92",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-297-j5ji8qv4-v1\/imageContent-297-j5ji8qv4-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7413,7 +7432,7 @@
         "tvg-id": "922",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-63498-kqq89g5k-v2\/imageContent-63498-kqq89g5k-m3.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7432,7 +7451,7 @@
         "tvg-id": "936",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/PUNHTS_Thumbnail-v1\/PUNHTS_Thumbnail.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7451,7 +7470,7 @@
         "tvg-id": "193",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-792-j5m75dww-v1\/imageContent-792-j5m75dww-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7470,7 +7489,7 @@
         "tvg-id": "773",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-47242-k1vmve74-v1\/imageContent-47242-k1vmve74-m2.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7489,7 +7508,7 @@
         "tvg-id": "567",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12106-j9ooxpug-v2\/imageContent-12106-j9ooxpug-m2.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7508,7 +7527,7 @@
         "tvg-id": "214",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-860-j5mao56o-v1\/imageContent-860-j5mao56o-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7527,7 +7546,7 @@
         "tvg-id": "368",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11485-j9jsysqw-v1\/imageContent-11485-j9jsysqw-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7546,7 +7565,7 @@
         "tvg-id": "353",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11411-j9jqocds-v1\/imageContent-11411-j9jqocds-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7565,7 +7584,7 @@
         "tvg-id": "68",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-12390-jai3fgy0-v1\/imageContent-12390-jai3fgy0-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7584,7 +7603,7 @@
         "tvg-id": "226",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-956-j5mipkxs-v1\/imageContent-956-j5mipkxs-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7603,7 +7622,7 @@
         "tvg-id": "221",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-879-j5mdmlqw-v1\/imageContent-879-j5mdmlqw-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7622,7 +7641,7 @@
         "tvg-id": "423",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11673-j9kfe73s-v1\/imageContent-11673-j9kfe73s-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7641,7 +7660,7 @@
         "tvg-id": "417",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11644-j9k1gjow-v1\/imageContent-11644-j9k1gjow-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7660,7 +7679,7 @@
         "tvg-id": "894",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NKTVPLUS_Thumbnail-v2\/NKTVPLUS_Thumbnail.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7679,7 +7698,7 @@
         "tvg-id": "977",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-69824-l1dfgvcg-v1\/imageContent-69824-l1dfgvcg-m3.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7698,7 +7717,7 @@
         "tvg-id": "1076",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/NBNEWS_Thumbnail-v2\/NBNEWS_Thumbnail.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7717,7 +7736,7 @@
         "tvg-id": "331",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11363-j9jprc40-v1\/imageContent-11363-j9jprc40-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7736,7 +7755,7 @@
         "tvg-id": "325",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11345-j9jpidkw-v1\/imageContent-11345-j9jpidkw-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7755,7 +7774,7 @@
         "tvg-id": "449",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11728-j9kw1zp4-v1\/imageContent-11728-j9kw1zp4-m1.png",
-        "group-title": "TSneh Regional Others",
+        "group-title": "Regional Others",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7774,7 +7793,7 @@
         "tvg-id": "991",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-71497-l4stx05k-v3\/imageContent-71497-l4stx05k-m5.png",
-        "group-title": "TSneh null",
+        "group-title": "null",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7793,7 +7812,7 @@
         "tvg-id": "790",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48807-k4m7ud0o-v2\/imageContent-48807-k4m7ud0o-m2.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7812,7 +7831,7 @@
         "tvg-id": "791",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-48804-k4m7nz2w-v1\/imageContent-48804-k4m7nz2w-m1.png",
-        "group-title": "TSneh Regional Punjabi",
+        "group-title": "Regional Punjabi",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
@@ -7831,7 +7850,7 @@
         "tvg-id": "912",
         "license-type": "clearkey",
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-62613-koxw351c-v1\/imageContent-62613-koxw351c-m1.png",
-        "group-title": "TSneh Music",
+        "group-title": "Music",
         "channel-name": "null",
         "license-key": "",
         "license-key-local": {
