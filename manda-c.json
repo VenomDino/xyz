@@ -3055,9 +3055,18 @@
         "channel-name": "Star Jalsha HD",
         "tvg-id": " group-title=",
         "license-type": "clearkey",
-        "license-key": "http:\/\/rftv.wtf\/tp\/rjiptv.php?contentID=468&key",
-        "license-key-local": {},
-        "video-streaming-link": "http:\/\/rftv.wtf\/tp\/rjiptv.mpd?contentID=468"
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "f4/COl7QvT+VpPs4QpOAdQ",
+                    "kid": "UuSQhPTnU0O5CD2wE8DUBA"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd"
     },
     {
         "tvg-logo": "https:\/\/ltsk-cdn.s3.eu-west-1.amazonaws.com\/jumpstart\/Temp_Live\/cdn\/HLS\/Channel\/imageContent-11970-j9luk5ag-v1\/imageContent-11970-j9luk5ag-m1.png",
