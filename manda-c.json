@@ -1,5 +1,24 @@
 [
     {
+        "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
+        "group-title": "Sports",
+        "channel-name": "Star Sports 1 HD",
+        "tvg-id": "",
+        "license-type": "clearkey",
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "RihzAWoA+oL/pCdZkQBTjQ",
+                    "kid": "BjQb891jXmylxxGI0CEDcw"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd"
+    },
+    {
         "tvg-logo": "https:\/\/jiotv.catchup.cdn.jio.com\/dare_images\/images\/Jio_Cricket_English.png",
         "group-title": "Sports",
         "channel-name": "Jio Cricket English HD",
