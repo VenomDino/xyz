@@ -1,6 +1,25 @@
 [
     {
         "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+        "group-title": "Kids",
+        "channel-name": "Super Hungama",
+        "tvg-id": "",
+        "license-type": "clearkey",
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "sm20ap61om2rZAHC7/nPFw",
+                    "kid": "ULbMSBf5U4yRbOLhGSKBYA"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd"
+    },
+    {
+        "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
         "group-title": "Sports",
         "channel-name": "Star Sports Hindi 1 HD",
         "tvg-id": "",
