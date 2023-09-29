@@ -1,5 +1,62 @@
 [
     {
+        "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",
+        "group-title": "Sports",
+        "channel-name": "Star Sports Hindi 1 HD",
+        "tvg-id": "",
+        "license-type": "clearkey",
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "xIWHqnc73TCQcLbqfOP8vA",
+                    "kid": "ap5CBPP4V36/bnmzsYVz+A"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd"
+    },
+    {
+        "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
+        "group-title": "Entertainment",
+        "channel-name": "Star Plus HD",
+        "tvg-id": "",
+        "license-type": "clearkey",
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "8D6TuDM/uLzEtH81DQcsfw",
+                    "kid": "HL4pP9w4XayMDVArBPM45A"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd"
+    },
+    {
+        "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png",
+        "group-title": "Entertainment",
+        "channel-name": "Star Jalsha HD",
+        "tvg-id": "",
+        "license-type": "clearkey",
+        "license-key": "",
+        "license-key-local": {
+            "keys": [
+                {
+                    "kty": "oct",
+                    "k": "f4/COl7QvT+VpPs4QpOAdQ",
+                    "kid": "UuSQhPTnU0O5CD2wE8DUBA"
+                }
+            ],
+            "type": "temporary"
+        },
+        "video-streaming-link": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd"
+    },
+    {
         "tvg-logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
         "group-title": "Sports",
         "channel-name": "Star Sports 1 HD",
