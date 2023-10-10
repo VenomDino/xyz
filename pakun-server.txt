@@ -1,1 +1,1 @@
-http://51.222.138.202:8000/jio/app/live.php?id={XXX}&e=.m3u8
+https://madxsia.live/jtv/app/live/{XXX}/nsykat/index.m3u8
