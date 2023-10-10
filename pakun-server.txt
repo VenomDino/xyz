@@ -1,1 +1,1 @@
-https://servertvhubchannel.xyz/master.php?id={XXX}&=e.m3u8
+http://51.222.138.202:8000/jio/app/live.php?id={XXX}&e=.m3u8
