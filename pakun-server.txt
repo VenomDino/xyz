@@ -1,1 +1,1 @@
-http://servertvhubchannel.xyz/Generationplaylist/app/live.php?id={XXX}&e=.m3u8
+https://madxsia.live/jtv/jiotv/autoq.php?c={XXX}&e=.m3u8
